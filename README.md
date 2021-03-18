@@ -23,3 +23,4 @@ The model at its core uses three Long Short-Term Memory (LSTM) which has proven 
 <p>After training the model has shown loss: 0.0012</p>
 <h2>Model Evaluation</h2>
 <img src="https://github.com/NavinBondade/Alphabet-s-Stock-Price-Prediction-Plus-Forecasting/blob/main/Alphabet's%20Stock%20Price%20%20Prediction%20Plus%20Forecasting/Graphs/Alphabet's%20Stock%20Price%20(Open)%20Prediction.png" alt="tomato" width="800" height="400">
+<p>The model has predicted the stock price value quite accurately <b>the root mean squares error of the model was just 48.83, and the R@ score was 0.97</b></p>
