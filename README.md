@@ -22,4 +22,4 @@ The model at its core uses three Long Short-Term Memory (LSTM) which has proven 
 <img src="https://github.com/NavinBondade/Alphabet-s-Stock-Price-Prediction-Plus-Forecasting/blob/main/Alphabet's%20Stock%20Price%20%20Prediction%20Plus%20Forecasting/Graphs/loss.png" width="450" height="300">
 <p>After training the model has shown loss: 0.0012</p>
 <h2>Model Evaluation</h2>
-<img src="https://github.com/NavinBondade/Alphabet-s-Stock-Price-Prediction-Plus-Forecasting/blob/main/Alphabet's%20Stock%20Price%20%20Prediction%20Plus%20Forecasting/Graphs/Alphabet's%20Stock%20Price%20(Open)%20Prediction.png" alt="tomato" width="900" height="500">
+<img src="https://github.com/NavinBondade/Alphabet-s-Stock-Price-Prediction-Plus-Forecasting/blob/main/Alphabet's%20Stock%20Price%20%20Prediction%20Plus%20Forecasting/Graphs/Alphabet's%20Stock%20Price%20(Open)%20Prediction.png" alt="tomato" width="800" height="400">
