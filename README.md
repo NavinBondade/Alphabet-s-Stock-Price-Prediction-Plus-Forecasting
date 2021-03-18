@@ -15,3 +15,5 @@
 </ul> 
 <h2>Data Visualization</h2>
 <img src="https://github.com/NavinBondade/Alphabet-s-Stock-Price-Prediction-Plus-Forecasting/blob/main/Alphabet's%20Stock%20Price%20%20Prediction%20Plus%20Forecasting/Graphs/Alphabet's%20Stock%20Price%20(Open).png" width="800" height="400">
+<h2>Model Detail</h2>
+<p> The model at its core uses three Long Short-Term Memory (LSTM) which has proven quite effective for learning order dependence for stock price prediction and forecasting and three dense layers for decision-making tasks. The model is trained for 40 epochs and uses adam as an optimizer and mean squared error as the loss function. The batch size was 30 during the training process. The dataset used on which model trained was downloaded from finance.yahoo.com<three dense layers for decision making./p>
