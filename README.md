@@ -14,4 +14,4 @@
   <li>Sklearn</li>
 </ul> 
 <h2>Data Visualization</h2>
-<img src="https://github.com/NavinBondade/Alphabet-s-Stock-Price-Prediction-Plus-Forecasting/blob/main/Alphabet's%20Stock%20Price%20%20Prediction%20Plus%20Forecasting/Graphs/Alphabet's%20Stock%20Price%20(Open).png" width="700" height="450">
+<img src="https://github.com/NavinBondade/Alphabet-s-Stock-Price-Prediction-Plus-Forecasting/blob/main/Alphabet's%20Stock%20Price%20%20Prediction%20Plus%20Forecasting/Graphs/Alphabet's%20Stock%20Price%20(Open).png" width="800" height="500">
