@@ -1,4 +1,9 @@
 # Alphabet-s-Stock-Price-Prediction-Plus-Forecasting
+<p align="center">
+<a href="https://nbviewer.jupyter.org/github/NavinBondade/Forecasting-The-Alphabets-Stock-Price-For-Next-Upcoming-60-Days/blob/main/Alphabet%27s%20Stock%20Price%20%20Prediction%20Plus%20Forecasting/NoteBook/Alphabet%27s_Stock_Price_Prediction_With_LSTM_.ipynb" target="_blank">
+  <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
+</a>
+</p>
 <img src="https://cdn.business2community.com/wp-content/uploads/2015/08/alphabet-logo-970-80-150x150.jpg.jpg" alt="Alphabet" width="900" height="500">
 <p>Alphabet Inc. is an American multinational conglomerate. It was created through a restructuring of Google in 2015, and became the parent company of Google and several former Google subsidiaries. In 2020, Alphabet became the fourth US company to reach a $1 trillion market value. It is a publicly listed company on NASDAQ as GOOG. 
 </p>
