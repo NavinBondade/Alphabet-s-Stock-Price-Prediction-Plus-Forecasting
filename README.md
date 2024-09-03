@@ -1,4 +1,4 @@
-# Alphabet-s-Stock-Price-Prediction-Plus-Forecasting
+# Forecasting of Alphabet's Stock Prices Using Long Short-Term Memory (LSTM) Networks
 <p align="center">
 <a href="https://nbviewer.jupyter.org/github/NavinBondade/Forecasting-The-Alphabets-Stock-Price-For-Next-Upcoming-60-Days/blob/main/Alphabet%27s%20Stock%20Price%20%20Prediction%20Plus%20Forecasting/NoteBook/Alphabet%27s_Stock_Price_Prediction_With_LSTM_.ipynb" target="_blank">
   <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
