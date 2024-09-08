@@ -5,9 +5,10 @@
 </a>
 </p>
 <img src="https://cdn.business2community.com/wp-content/uploads/2015/08/alphabet-logo-970-80-150x150.jpg.jpg" alt="Alphabet" width="900" height="500">
-<p>Alphabet Inc. is an American multinational conglomerate. It was created through a restructuring of Google in 2015, and became the parent company of Google and several former Google subsidiaries. In 2020, Alphabet became the fourth US company to reach a $1 trillion market value. It is a publicly listed company on NASDAQ as GOOG. 
+<p>Alphabet Inc., established in 2015 through a restructuring of Google, is now the parent company of Google and several former subsidiaries. As a global leader in the tech industry, Alphabet has reached significant milestones, including becoming the fourth U.S. company to surpass a $1 trillion market value in 2020. Traded on NASDAQ under the ticker symbol "GOOG," Alphabet continues to be one of the most profitable companies, offering substantial returns for investors.
+
+To tackle the challenge of predicting Alphabet’s stock prices, I developed a deep learning model trained on historical stock data. Using advanced techniques like Recurrent Neural Networks (RNN) with Long Short-Term Memory (LSTM) units, the model excels in forecasting, offering a 60-day prediction with an impressive R2 score of 0.97. This accuracy helps investors gain valuable insights into market trends, enabling them to make more informed and strategic investment decisions.
 </p>
-<p>Alphabet is one of the most profitable companies, and the investors have ripped a lot of money from it by investing in its share. Stock price prediction is a trick and cumbersome task, that's why I have created a deep learning model that has extensively trained on Alphabet's stock price data to predict the stock value and <b>give forecasting  of next 60 days with an R2 score of 0.97</b>.</p>
 <h2>Libraries Used</h2>
 <ul>
   <li>Tensorflow</li>
@@ -21,8 +22,9 @@
 <h2>Data Visualization</h2>
 <img src="https://github.com/NavinBondade/Alphabet-s-Stock-Price-Prediction-Plus-Forecasting/blob/main/Alphabet's%20Stock%20Price%20%20Prediction%20Plus%20Forecasting/Graphs/Alphabet's%20Stock%20Price%20(Open).png" width="800" height="400">
 <h2>Model Detail</h2>
-<p>
-The model at its core uses three Long Short-Term Memory (LSTM) which has proven quite effective for learning long-term dependence for stock price prediction and forecasting, and three dense layers for decision-making tasks. The model is trained for 40 epochs and uses adam as an optimizer and mean squared error as the loss function. The batch size was 30 during the training process. The dataset on which model trained was downloaded from finance.yahoo.com.</p>
+<p>At the core of this model lies a sophisticated architecture built upon three Long Short-Term Memory (LSTM) layers, which have proven highly effective in capturing and learning long-term dependencies, particularly suited for stock price prediction and forecasting. LSTM’s ability to retain information over extended sequences makes it an ideal choice for financial time-series data, where patterns and trends unfold gradually over time. The LSTM layers are followed by three fully connected (dense) layers, which are responsible for decision-making tasks, translating the learned patterns into precise predictions.
+
+The model was trained over 40 epochs, ensuring thorough learning of the stock price data. To optimize the model’s performance, the Adam optimizer was employed, known for its efficiency in handling sparse gradients and adapting learning rates. The mean squared error (MSE) function was used as the loss function, as it effectively measures prediction accuracy by penalizing larger errors more heavily. The training process used a batch size of 30, balancing computational efficiency and gradient stability. The dataset utilized for training was sourced from finance.yahoo.com, providing a comprehensive and reliable collection of Alphabet’s historical stock data, essential for building an accurate and robust predictive model.</p>
 <h2>Model Training</h2>
 <img src="https://github.com/NavinBondade/Alphabet-s-Stock-Price-Prediction-Plus-Forecasting/blob/main/Alphabet's%20Stock%20Price%20%20Prediction%20Plus%20Forecasting/Graphs/loss.png" width="450" height="300">
 <p>After training the model has shown loss: 0.0012</p>
